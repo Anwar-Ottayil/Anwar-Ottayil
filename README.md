@@ -8,9 +8,9 @@
 <h3 align="center"> Tools & Languages </h3>
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dart/dart-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c#/c#-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg" height="30" alt="C# logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dotnetcore/dotnet-original.svg" height="30" alt="C# logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
