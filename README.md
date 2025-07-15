@@ -36,9 +36,9 @@
 
 
 ### 📌 Pinned Projects
-- ✨ Flutter API App
-- 📱 Expense Tracker App
-- 🔐 Login UI with Firebase Auth
+- ✨ Web Api
+- 📱 
+- 🔐 
 
 ---
 
