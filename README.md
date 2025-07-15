@@ -28,9 +28,9 @@
 ###
 
 
-### 📊 GitHub Stats
+### 📊 GitHub Status
 
-![Anwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anwar-Ottayil&show_icons=true&theme=radical)
+![Anwar's GitHub status](https://github-readme-stats.vercel.app/api?username=Anwar-Ottayil&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anwar-Ottayil&layout=compact&theme=radical)
 
