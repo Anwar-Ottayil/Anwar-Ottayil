@@ -22,7 +22,7 @@ public class AnwarOttayil : Developer
 {
     public string Location => "Kerala, India";
     public string Education => "MCA Post-Graduate";
-    public string CurrentRole => "Software Developer Intern";
+    public string CurrentRole => "Software Developer ";
     
     public List<string> CurrentFocus => new()
     {
